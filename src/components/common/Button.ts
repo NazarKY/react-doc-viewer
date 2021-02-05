@@ -1,5 +1,6 @@
 import styled, { css } from "styled-components";
 import { IStyledProps } from "../../types";
+import * as ___ from "react-doc-viewer/node_modules/@types/styled-components"
 
 interface ButtonProps extends IStyledProps {
   disabled?: boolean;
